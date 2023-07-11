@@ -1,5 +1,5 @@
 # Guardian_Dumper
-String Dumper And Checker For Data Forensics And PC Checking For Cheats Or Unwanted Software.
+String Dumper And Checker For PC Checking For Cheats Or Unwanted Software.
 This tool dumps DNSCACHE, PCASVC, FIVEM, LSASS, DISCORD, DPS
 
 ## Setup
