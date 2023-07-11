@@ -15,5 +15,5 @@ This tool dumps DNSCACHE, PCASVC, FIVEM, LSASS, DISCORD, DPS
 ## Authors
 
 - [@Sorted1](https://www.github.com/sorted1)
-- [PCGUARDIAN](https://pguardian.xyz)
+- [PCGUARDIAN](https://pcguardian.xyz)
 
